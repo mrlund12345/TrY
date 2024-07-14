@@ -63,7 +63,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐀𝐉𝐏𝐔𝐓 𝐄𝐍𝐓𝐄𝐑</title>
+  <title>𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐄𝐧𝐭𝐞𝐫 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -132,7 +132,7 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-  <h1 class="mt-3">倫 𝐇𝐀𝐒𝐒𝐀𝐍 —⍟— 𝐑𝐀𝐉𝐏𝐔𝐓 倫 </h1>
+  <h1 class="mt-3">[×] 𝐀𝐫𝐘𝐚𝐧 𝐓𝐡𝐚𝐤𝐮𝐑 [×] </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -163,10 +163,10 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝓗𝓪𝓼𝓼𝓪𝓷 𝓡𝓪𝓳𝓹𝓾𝓽.</p>
-    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
+    <p>&copy; 2024 𝐂𝐎𝐏𝐘 𝐊𝐑𝐊𝐄 𝐊𝐘𝐀 𝐊𝐑𝐆𝐀 𝐉𝐇𝐀𝐓𝐔</p>
+    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/mr.be0001?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+918824167482" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
    z   </a>
     </div>
